@@ -1,0 +1,2 @@
+This is just a text file
+and it was created to the python file handling
